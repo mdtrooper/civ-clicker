@@ -4,7 +4,6 @@ Fork of CivClicker.
 
 ## Try it out
 
-* Play different versions of this fork here: http://31.24.227.106/.
 * Play the deathraygames version here: http://deathraygames.com/play-online/civ-clicker/.
 * Play the original v1.0: http://dhmholley.co.uk/civclicker.html
 
